@@ -36,3 +36,22 @@ You need a basic understanding of **HTML**, **JavaScript**, and **AngularJS**. A
 1. Download or clone the repository.
    ```bash
    git clone https://github.com/your-username/angularjs-task-manager.git
+
+2. ### Installation
+
+1. Navigate to the project directory.
+
+2. Ensure the following files are present:
+   - `index.html`
+   - `app.js`
+   - `style.css` (optional for styling)
+
+### Running the App
+
+1. Open the `index.html` file in your browser.
+
+2. You should see the task management app with the following features:
+   - An input field to add tasks.
+   - A task list that displays each task with a timestamp.
+   - Buttons to edit, delete, complete, or undo tasks.
+
